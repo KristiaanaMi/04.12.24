@@ -10,7 +10,7 @@ elif num % 2 == 0:
 else:
     print(num, "is an odd number")
 
-if num % check == 0:  
+if num % check == 0:  #Parbauda iznaku.
     print(num, "divides evenly by", check)
 else:
     print(num, "doesn't divide evenly by", check)
